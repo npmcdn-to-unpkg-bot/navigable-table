@@ -10,7 +10,7 @@
 
 You can download the latest JS & CSS code here:
 
-- https://npmcdn.com/navigable-table/dist/navigable-table.js
+- https://unpkg.com/navigable-table/dist/navigable-table.js
 
 Or install via [npm](https://www.npmjs.com/)
 
